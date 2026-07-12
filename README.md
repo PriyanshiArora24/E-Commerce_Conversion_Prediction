@@ -1,5 +1,5 @@
 # E-Commerce Conversion Prediction
-This project was developed as part of the **IIT Guwahati ML Bootcamp Hackathon**.
+This project was developed as part of the **IIT Guwahati Summer Analytics Hackathon**.
 
 ## Overview
 Built a Logistic Regression model to predict whether a customer is likely to convert based on user behavior and demographic features.
@@ -30,4 +30,4 @@ Through this project, I gained hands-on experience with data preprocessing, feat
 - `e_commerce_conversion_prediction.ipynb` – Complete implementation, analysis, and model evaluation.
 
 ## Dataset
-The dataset was provided as part of the **IIT Guwahati ML Bootcamp Hackathon** and is therefore not included in this repository. 
+The dataset was provided as part of the **IIT Guwahati Summer Analytics Hackathon** and is therefore not included in this repository.
